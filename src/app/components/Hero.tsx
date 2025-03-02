@@ -114,7 +114,7 @@ export default function Hero() {
 
             {/* Download Sample Input Button with Download Attribute */}
             <a
-              href="https://drive.google.com/uc?export=download&id=1PImPJUrb7nai5mpUKeDOPIkx922mVaO4"
+              href="https://drive.google.com/uc?export=download&id=1VH3QKcllymxj3CSeRkWBe9XbN0PTrvs8"
               download
             >
               <Button
