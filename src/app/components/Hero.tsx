@@ -6,7 +6,7 @@ export default function Hero() {
   // Array of 9 image URLs (replace these with your actual image URLs)
   const images = [
     "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image1.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image2.png",
+    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image22.png",
     "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image3.png",
     "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image4.png",
     "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image5.png",
