@@ -5,15 +5,15 @@ import { FaPlay } from "react-icons/fa"
 export default function Hero() {
   // Array of 9 image URLs (replace these with your actual image URLs)
   const images = [
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image1.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image22.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image3.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image4.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image5.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image6.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image7.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image8.png",
-    "https://raw.githubusercontent.com/arkapg211002/FYP-LP/refs/heads/main/assets/image9.png",
+    "/assets/images/image1.png",
+    "/assets/images/image2.png",
+    "/assets/images/image3.png",
+    "/assets/images/image4.png",
+    "/assets/images/image5.png",
+    "/assets/images/image6.png",
+    "/assets/images/image7.png",
+    "/assets/images/image8.png",
+    "/assets/images/image9.png",
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)
