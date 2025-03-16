@@ -30,8 +30,8 @@ export default function Performance() {
     {
       title: "Ensemble Model Performance",
       metricLabel: "Stratified K-Fold CV",
-      metricValue: "98.07%",
-      width: "98.07%",
+      metricValue: "98.03%",
+      width: "98.03%",
     },
     {
       title: "Hierarchical Model Performance",
